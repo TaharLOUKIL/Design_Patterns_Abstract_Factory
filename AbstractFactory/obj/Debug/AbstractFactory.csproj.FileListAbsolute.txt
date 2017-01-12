@@ -1,0 +1,9 @@
+c:\users\loukil\documents\visual studio 2015\Projects\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+c:\users\loukil\documents\visual studio 2015\Projects\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csprojResolveAssemblyReference.cache
+c:\users\loukil\documents\visual studio 2015\Projects\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.Properties.Resources.resources
+c:\users\loukil\documents\visual studio 2015\Projects\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csproj.GenerateResource.Cache
+c:\users\loukil\documents\visual studio 2015\Projects\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe
+c:\users\loukil\documents\visual studio 2015\Projects\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.pdb
+c:\users\loukil\documents\visual studio 2015\Projects\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.exe
+c:\users\loukil\documents\visual studio 2015\Projects\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.pdb
+c:\users\loukil\documents\visual studio 2015\Projects\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.AbstractFactoryExample.resources
