@@ -11,6 +11,7 @@ namespace AbstractFactory
             InitializeComponent();
         }
 
+
         private void button1_Click(object sender, EventArgs e)
         {
             Database database;
@@ -29,6 +30,7 @@ namespace AbstractFactory
             //command.CommandText = "Select * from Employes";
             //command.Connection.Open();
             //DbDataReader reader = command.ExecuteReader();
+
 
             //reader.Close();
             //command.Connection.Close();
